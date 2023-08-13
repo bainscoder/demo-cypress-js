@@ -1,3 +1,6 @@
+/**
+ * This test suite is to validate E2E scenario in desktop view:
+ */
 describe("create order end to end scenario",()=> {
     beforeEach("login",()=> {
         cy.loginWithvalidCredentials()

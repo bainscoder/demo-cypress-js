@@ -1,0 +1,17 @@
+{
+  "name": "cypress_demo_with_js",
+  "version": "1.0.0",
+  "description": "This is a demo script for client",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git@github.com-personal:Raghvendra-Singh-Chandel/Cypress_Demo_With_JS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^12.17.3"
+  }
+}
